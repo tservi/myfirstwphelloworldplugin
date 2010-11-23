@@ -28,4 +28,4 @@ There are two options on the options page: Text color and Text style.
 == Template Tag ==
 The following template tag must be added to your theme in the location you want the link to appear when insertion type is set to template:
 
-`<?php if(function_exists(addhelloworld)) : addhelloworld(); endif; ?>`
+`<?php if(function_exists(helloworld)) : helloworld(); endif; ?>`
