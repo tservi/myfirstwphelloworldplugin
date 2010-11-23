@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: 
+Plugin Name: myfirstwphelloworldplugin
 Version: 0.0.1
 Plugin URI: https://code.google.com/p/myfirstwphelloworldplugin/
 Description: Adds a "Hello world" text.
