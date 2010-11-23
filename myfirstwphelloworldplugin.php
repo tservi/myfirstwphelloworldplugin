@@ -139,8 +139,3 @@ add_action('wp_head', 'myfirsthelloworldplugincss');
 
 
 ?>
-
-
-
-
-
